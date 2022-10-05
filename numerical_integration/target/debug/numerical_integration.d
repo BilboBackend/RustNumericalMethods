@@ -1,1 +1,0 @@
-/home/oskarhd/Documents/PersonalProgramming/RustNumericalMethods/numerical_integration/target/debug/numerical_integration: /home/oskarhd/Documents/PersonalProgramming/RustNumericalMethods/numerical_integration/src/main.rs
